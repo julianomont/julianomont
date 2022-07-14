@@ -1,8 +1,10 @@
 Hello, my name is Juliano Monteiro.
 
-I am an IT enthusiast and have been working in IT for over 25 years. I have a degree in Telecommunications Engineering and in these last 10 years I worked for companies like Sprint, and T-Mobile in the IT area. I have also worked for Ericsson, Solectron and Flextronics.
+I am an IT enthusiast and have been working in IT for over 25 years. I have a degree in Telecommunications Engineering and in these last 10 years I worked for companies like Sprint, and T-Mobile in the IT area. 
+I have also worked for Ericsson, Solectron, Flextronics, and Shell Oil Company.
 In all these years I've worked with networks, systems administration, security, server backup, databases, ETL, and currently I work with automation software development.
-I like to learn new technologies and share knowledge.
+
+I'm expert in problem solving and solution design, and I like to learn new technologies and share knowledge.
 
 Best Regards!
 
