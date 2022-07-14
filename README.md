@@ -5,7 +5,7 @@ I am an IT enthusiast and have been working in IT for over 25 years.
 I have a degree in Telecommunications Engineering and in these last 10 years I worked for companies like Sprint, and T-Mobile in the IT area. 
 I have also worked for Ericsson, Solectron, Flextronics, and Shell Oil Company.
 
-In all these years I've worked with networks, systems administration, security, server backup, databases, ETL, and currently I work with automation and software development.
+In all these years I've worked with networks, system administration, security, server backup, databases, ETL, and currently I work with automation and software development.
 
 I'm expert in problem solving and solution design, and I like to learn new technologies and share knowledge.
 
