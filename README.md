@@ -1,4 +1,11 @@
-Olá sou Juliano Monteiro!
+Hello, my name is Juliano Monteiro.
+
+I am an IT enthusiast and have been working in IT for over 25 years. I have a degree in Telecommunications Engineering and in these last 10 years I worked for companies like Sprint, and T-Mobile in the IT area. I have also worked for Ericsson, Solectron and Flextronics.
+In all these years I've worked with networks, systems administration, security, server backup, databases, ETL, and currently I work with automation software development.
+I like to learn new technologies and share knowledge.
+
+Best Regards!
+
 <div align="center">
   <a href="https://github.com/julianomont">
 
